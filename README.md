@@ -1,6 +1,6 @@
 Hello there, I'm Ezekiel 👋
 
-You're welcome to my tech stacks and space! Here are some things about me:
+You're welcome to my Github space! Here are some things about my tech stacks:
 
 ## 🚀 About Me
 - ✍️ I use
