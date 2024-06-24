@@ -3,7 +3,7 @@ Hello there👋, I'm 𝓔𝔃𝓮𝓴𝓲𝓮𝓵, a 𝓕𝓾𝓵𝓵 𝓢𝓽�
 You're welcome to my Github space! Here are some things about my tech stacks:
 
 ## 🚀 About Me
-- ✍️ I use
+- ✍️ Proficient in:
     * JavaScript/TypeScript
     * React.js/Next.js/Remix.js
     * Vue.js
