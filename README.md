@@ -1,4 +1,4 @@
-Hello there, I'm Ezekiel 👋
+Hello there👋, I'm 𝓔𝔃𝓮𝓴𝓲𝓮𝓵, a Full Stack Developer and Mobile App expert 
 
 You're welcome to my Github space! Here are some things about my tech stacks:
 
