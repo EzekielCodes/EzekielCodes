@@ -12,6 +12,7 @@ You're welcome to my Github space! Here are some things about my tech stacks:
     * Tailwind
     * Bootstrap
     * SASS
+    * Flutter, Java, and React Native
     * Git
     * Sanity.io
 
@@ -32,6 +33,5 @@ You're welcome to my Github space! Here are some things about my tech stacks:
 
 🎉Fun Fact:
 Hobby: Coding, Debugging.
-
 
 
