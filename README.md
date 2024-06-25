@@ -9,7 +9,7 @@ You're welcome to my Github space! Here are some things about my tech stacks:
     * Vue.js
     * Node.js (Express)
     * PHP (Laravel)
-    * Tailwind
+    * Tailwind CSS
     * Bootstrap
     * SASS
     * Flutter, Java, and React Native
