@@ -28,7 +28,7 @@ You're welcome to my Github space! Here are some things about my tech stacks:
 
 ## 🚀MORE
 🔭 I’m currently working on AI-driven website for a SearchEngineHub
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently improving my skills in AWS
 - 👯 I’m looking to collaborate on MERN, MEVN, AI, WordPress, and Shopify tasks.
 
 🎉Fun Fact:
