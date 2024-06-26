@@ -1,6 +1,6 @@
 Hello there👋, I'm 𝓔𝔃𝓮𝓴𝓲𝓮𝓵, a 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓪𝓷𝓭 𝓜𝓸𝓫𝓲𝓵𝓮 𝓐𝓹𝓹 𝓮𝔁𝓹𝓮𝓻𝓽.
 
-You're welcome to my Github space! Here are some things about my tech stacks:
+You're welcome to my Github space! Here's an overview of my tech stacks:
 
 ## 🚀 About Me
 - ✍️ Proficient in:
