@@ -32,4 +32,4 @@ You're welcome to my Github space! Here's an overview of my tech stacks:
 - 👯 I’m looking to collaborate on MERN, MEVN, AI, WordPress, and Shopify tasks.
 
 🎉Fun Fact:
-Hobby: Coding, Debugging.
+Hobby: Coding and Debugging.
