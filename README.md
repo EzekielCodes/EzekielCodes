@@ -12,7 +12,7 @@ You're welcome to my Github space! Here's an overview of my tech stacks:
     * Tailwind CSS
     * Bootstrap
     * SASS
-    * Flutter, Java, and React Native
+    * Flutter, Java, React Native.
     * Git
     * Sanity.io
 
