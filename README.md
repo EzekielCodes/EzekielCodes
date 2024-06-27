@@ -24,7 +24,6 @@ You're welcome to my Github space! Here's an overview of my tech stacks:
     * Python
     * Firebase
     * Redux
-    * Gatby&Astro
 
 ## 🚀MORE
 🔭 I’m currently working on AI-driven website for a SearchEngineHub
