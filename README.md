@@ -32,6 +32,20 @@ You're welcome to my Github space! Here's an overview of my tech stacks:
     - ## 🔗 SOCIAL LINKS
       [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login)
       
+      chine learning
+    * JavaScript (for visualization libraries like D3.js)
+    * Firebase
+    * Redux
+    * Gatby&Astro
+
+## 🚀Other Stacks
+- PROJECT LINKS:
+    - ## 🔗 SEE ATTACHED
+      [![portfolio](https://img.shields.io/badge/DevResumeWebsite-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakCodes/DevResumeBuilder.git)
+    
+    - ## 🔗 SOCIAL LINKS
+      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salaam-rasak-501b69120/)
+
 ## 🚀MORE
 🔭 I’m currently working on AI-driven website for a SearchEngineHub
 - 🌱 I’m currently improving my skills in AWS.
