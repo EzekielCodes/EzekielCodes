@@ -17,7 +17,7 @@ You're welcome to my Github space! Here's an overview of my tech stacks:
     * Sanity.io
 
 ## 🚀Other Stacks
-- ✍️𝗜'𝗺 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻:
+- ✍️𝗜'𝗺 𝗮𝗹𝘀𝗼 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻:
     * MongoDB
     * MySQL
     * PostgreSQL
