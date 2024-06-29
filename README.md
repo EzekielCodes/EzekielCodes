@@ -3,7 +3,7 @@ Hello there👋, I'm 𝓔𝔃𝓮𝓴𝓲𝓮𝓵, a 𝓕𝓾𝓵𝓵 𝓢𝓽�
 You're welcome to my Github space! Here's an overview of my tech stacks:
 
 ## 🚀 About Me
-- ✍️ Proficient in:
+- ✍️𝗜'𝗺 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻:
     * JavaScript/TypeScript
     * React.js/Next.js/Remix.js
     * Vue.js
@@ -17,7 +17,7 @@ You're welcome to my Github space! Here's an overview of my tech stacks:
     * Sanity.io
 
 ## 🚀Other Stacks
-- ✍️ proficient in:
+- ✍️𝗜'𝗺 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻:
     * MongoDB
     * MySQL
     * PostgreSQL
