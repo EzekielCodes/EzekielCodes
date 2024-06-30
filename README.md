@@ -28,9 +28,9 @@ You're welcome to my Github space! Here's an overview of my tech stacks:
 ## 🚀 PROJECT LINKS
 *   - ## 🔗 SEE ATTACHED
       [![portfolio](https://img.shields.io/badge/AmazonWebsite-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EzekielCodes/Amazon.git)
-   
-      [![portfolio](https://img.shields.io/badge/DevResumeSite-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EzekielCodes/ResumeBuilder.git)
 
+      [![portfolio](https://img.shields.io/badge/ResumeBuilder-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EzekielCodes/ResumeBuilder.git)
+      
     - ## 🔗 SOCIAL LINKS
       [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login)
       
