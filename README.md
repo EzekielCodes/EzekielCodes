@@ -25,24 +25,21 @@ You're welcome to my Github space! Here's an overview of my tech stacks:
     * Firebase
     * Redux
 
--🚀 PROJECT LINKS
-  - ## 🔗 SEE ATTACHED
+## 🚀 PROJECT LINKS
+*   - ## 🔗 SEE ATTACHED
       [![portfolio](https://img.shields.io/badge/AmazonWebsite-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EzekielCodes/Amazon.git)
 
       [![portfolio](https://img.shields.io/badge/ResumeBuilder-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EzekielCodes/ResumeBuilder.git)
       
-      [![portfolio](https://img.shields.io/badge/ResumeBuilder-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EzekielCodes/ResumeBuilder.git)
-
     - ## 🔗 SOCIAL LINKS
       [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login)
+      
   - 📫 How to reach me:
     - ## 🔗 Links
       [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://oslim-portfolio.vercel.app)
-    
-       [![portfolio](https://img.shields.io/badge/ResumeBuilder-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EzekielCodes/ResumeBuilder.git)
-       
+      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
       [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/selim_adewale)
-
+      
 ## 🚀MORE
 🔭 I’m currently working on AI-driven website for a SearchEngineHub
 - 🌱 I’m currently improving my skills in AWS.
