@@ -25,8 +25,8 @@ You're welcome to my Github space! Here's an overview of my tech stacks:
     * Firebase
     * Redux
 
-## 🚀 PROJECT LINKS
-*   - ## 🔗 SEE ATTACHED
+-🚀 PROJECT LINKS
+  - ## 🔗 SEE ATTACHED
       [![portfolio](https://img.shields.io/badge/AmazonWebsite-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EzekielCodes/Amazon.git)
 
       [![portfolio](https://img.shields.io/badge/ResumeBuilder-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EzekielCodes/ResumeBuilder.git)
