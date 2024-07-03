@@ -3,7 +3,7 @@ Hello there👋, I'm 𝗘𝘇𝗲𝗸𝗶𝗲𝗹, a 𝗙𝘂𝗹𝗹 𝗦𝘁�
 Leveraging the realms of progressive web apps (PWAs) and serverless architectures, I'm actively engaged in enhancing performance and scalability. During my leisure time, you'll find me experimenting with new frameworks, contributing to open-source projects, and staying updated with the latest trends in full stack development.
 
 ## 🚀 About Me
-- ✍️𝗜'𝗺 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻:
+- ✍️𝗜'𝗺 𝗮𝗱𝗲𝗽𝘁 𝗮𝘁 𝘂𝘀𝗶𝗻𝗴:
     * JavaScript/TypeScript
     * React.js/Next.js/Remix.js
     * Vue.js
