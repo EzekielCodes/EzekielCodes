@@ -30,11 +30,6 @@ Leveraging the realms of progressive web apps (PWAs) and serverless architecture
       [![portfolio](https://img.shields.io/badge/AmazonWebsite-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EzekielCodes/Amazon.git)
 
       [![portfolio](https://img.shields.io/badge/ResumeBuilder-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EzekielCodes/ResumeBuilder.git)
-      
-  <!-- - 📫 How to reach me:
-    - ## 🔗 Links
-      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-      -->
 
 ## 🚀MORE
 🔭 I’m currently working on AI-driven website for a SearchEngineHub
