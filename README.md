@@ -31,8 +31,7 @@ Leveraging the realms of progressive web apps (PWAs) and serverless architecture
 
       [![portfolio](https://img.shields.io/badge/ResumeBuilder-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EzekielCodes/ResumeBuilder.git)
 
-      [![portfolio](https://img.shields.io/badge/Annotation-000?style=for-the-badge&logo=ko-fi&logoColor=white)]
-      (https://github.com/EzekielCodes/AnnotationTask.git)
+      [![portfolio](https://img.shields.io/badge/Annotation-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EzekielCodes/AnnotationTask.git)
 
 ## 🚀MORE
 🔭 I’m currently working on AI-driven website for a SearchEngineHub
