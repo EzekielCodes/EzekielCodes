@@ -18,7 +18,7 @@ Leveraging the realms of progressive web apps (PWAs) and serverless architecture
 
 ## 🚀Other Stacks
 - ✍️𝗜'𝗺 𝗮𝗹𝘀𝗼 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻:
-    * MongoDbnB
+    * MongoDB
     * MySQL
     * PostgreSQL
     * Python
