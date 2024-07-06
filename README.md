@@ -35,7 +35,7 @@ Leveraging the realms of progressive web apps (PWAs) and serverless architecture
 
 ## 🚀MORE
 🔭 I’m currently working on AI-driven website for a SearchEngineHub
-- 🌱 I’m currently improving my skills in AWS.
+- 🌱 I’m improving my skills in AWS.
 - 👯 I’m looking to collaborate on MERN, MEVN, AI, WordPress, and Shopify eCommerce tasks.
 
 🎉Fun Fact: Coding and Debugging.
