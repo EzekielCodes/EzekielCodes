@@ -5,7 +5,7 @@ Leveraging the realms of progressive web apps (PWAs) and serverless architecture
 ## 🚀 About Me
 - ✍️𝗜'𝗺 𝗮𝗱𝗲𝗽𝘁 𝗮𝘁 𝘂𝘀𝗶𝗻𝗴:
     * JavaScript/TypeScript
-    * React.js/Next.js/Remix.js
+    * React.js/Next.js
     * Vue.js
     * Node.js (Express)
     * PHP (Laravel)
