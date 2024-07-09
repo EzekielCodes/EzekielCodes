@@ -1,4 +1,4 @@
-Welcome on board👋, I'm 𝗘𝘇𝗲𝗸𝗶𝗲𝗹, a 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗮𝗻𝗱 𝗠𝗼𝗯𝗶𝗹𝗲 𝗔𝗽𝗽 𝗘𝘅𝗽𝗲𝗿𝘁 with a flair for creating dynamic web and mobile applications, specializing in MERN, LAMP, React Native and Flutter. I thrive on tackling complex challenges and building scalable, user-friendly solutions. 
+Welcome on board👋, I'm 𝗘𝘇𝗲𝗸𝗶𝗲𝗹, a 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗮𝗻𝗱 UI/UX Expert with a flair for creating dynamic web applications and intuitive user experiences, specializing in MERN, MEAN, LAMP, and Figma. I excel in tackling complex challenges and building scalable, user-friendly solutions. 
 
 Leveraging the realms of progressive web apps (PWAs) and serverless architectures, I'm actively engaged in enhancing performance and scalability. During my leisure time, you'll find me experimenting with new frameworks, contributing to open-source projects, and staying updated with the latest trends in full stack development.
 
