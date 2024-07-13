@@ -1,4 +1,4 @@
-Welcome buddy👋, I'm 𝗘𝘇𝗲𝗸𝗶𝗲𝗹, a 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 and 𝗨𝗜/𝗨𝗫 𝗘𝘅𝗽𝗲𝗿𝘁 with a flair for creating dynamic web applications and intuitive user experiences, specializing in MERN, MEAN, LAMP, and Figma. I excel in tackling complex challenges and building scalable, user-friendly solutions. 
+Welcome buddy👋, I'm 𝗘𝘇𝗲𝗸𝗶𝗲𝗹, a senior 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 and 𝗨𝗜/𝗨𝗫 𝗘𝘅𝗽𝗲𝗿𝘁 with a flair for creating dynamic web applications and intuitive user experiences, specializing in MERN, MEAN, LAMP, and Figma. I excel in tackling complex challenges and building scalable, user-friendly solutions. 
 
 Leveraging the realms of progressive web apps (PWAs) and serverless architectures, I'm committed to enhancing performance and scalability. My design philosophy centers around intuitive and engaging user experiences, ensuring that every project is both aesthetically pleasing and highly functional.
 
