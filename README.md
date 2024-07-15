@@ -24,6 +24,7 @@ Within the realm of progressive web apps (PWAs) and serverless architectures, I 
     * Python
     * Firebase
     * Redux
+    * Figma, Wireframe, Dashboards, among others. 
 
 ## 🚀 PROJECT LINKS
 *   - ## 🔗 SEE ATTACHED
