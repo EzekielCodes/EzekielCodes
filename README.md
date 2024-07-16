@@ -39,4 +39,4 @@ Within the realm of progressive web apps (PWAs) and serverless architectures, I 
 - 🌱 I’m consolidating my skills in AWS.
 - 👯 I’m open to collaboration on MERN, MEVN, AI, WordPress, and Shopify eCommerce tasks.
 
-🎉Fun Fact: Coding and Debugging.
+🎉Fun Fact: Coding and Debugging... 
